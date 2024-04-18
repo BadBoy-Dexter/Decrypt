@@ -10,7 +10,7 @@
 
 ```apt install git python2 -y```
 
-```git clone https://github.com/hax0rtahm1d/decrypt```
+```git clone https://github.com/BadBoy-Dexter/decrypt/decrypt```
 
 ```cd decrypt```
 
@@ -19,7 +19,7 @@
 ### Or, Use Single Command
 
 ```
-apt update && apt install git python2 -y && git clone https://github.com/hax0rtahm1d/decrypt && cd decrypt && python2 dec.py
+apt update && apt install git python2 -y && git clone https://github.com/BadBoy-Dexter/decrypt && cd decrypt && python2 dec.py
 ```
 
 ## [+] Find Me on :
