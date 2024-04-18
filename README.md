@@ -1,5 +1,5 @@
 # Decrypt
-### [+] Created By HTR-TECH (@***tahmid.rayat***)
+### [+] Created By: DEXTER ESKALARTE
 ### [+] Disclaimer :
 ***Decrypter is a tool to decrypt Encrypted Bash Scripts into a Readable Format.This Tool is created for Educational Purpose only.I am not responsible for any misuse of this tool.***
 
