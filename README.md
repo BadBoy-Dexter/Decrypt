@@ -3,7 +3,7 @@
 ### [+] Disclaimer :
 ***Decrypter is a tool to decrypt Encrypted Bash Scripts into a Readable Format.This Tool is created for Educational Purpose only.I am not responsible for any misuse of this tool.***
 
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/decrypter.png" alt="" border="0" />
+<img src="https://raw.githubusercontent.com/BadBoy-Dexter/Decrypt/server_script/encrypt.png" alt="" border="0" />
 
 ### [+] Installation
 ```apt update```
