@@ -18,7 +18,7 @@ logo = """
  \033[1;33m                        __/ | |                 
  \033[1;33m                       |___/|_|                 
  \033[1;33m
- \033[1;36m    [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY HTR-TECH (TAHMID RAYAT)
+ \033[1;36m    [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY: DEXTER ESKALARTE (MEDIATEK VPN)
 """
 banner = """
  {}[{}01{}]{} Decrypt Bash File
